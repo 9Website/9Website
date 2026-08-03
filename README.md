@@ -39,4 +39,3 @@ $$\text{Total Atoms} = \sum_{k=1}^{118} k = \frac{118 \times 119}{2} = \mathbf{7
 - 📫 How to reach me: Requests, preferably on [Peeron](https://github.com/9Website/Peeron)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If you give me something, I will not accept so try it for yourself GIMME GIMME GIMME.
--->
