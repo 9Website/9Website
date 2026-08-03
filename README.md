@@ -31,6 +31,7 @@ $$\text{Total Atoms} = \sum_{k=1}^{118} k = \frac{118 \times 119}{2} = \mathbf{7
 | **Least Abundant** | 1 atom | Oganesson ($Og_1$) |
 
 ---
+(If you don't know that I'm kidding than... don't I don't care but I am kidding.
   
 - 👯 I’m looking to collaborate on small HTML projects with simple requests.
 - 🤔 I’m looking for help with nothing at the moment.
