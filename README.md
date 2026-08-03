@@ -39,7 +39,7 @@ $$\text{Total Atoms} = \sum_{k=1}^{118} k = \frac{118 \times 119}{2} = \mathbf{7
 - 👯 I’m looking to collaborate on small HTML projects with simple requests.
 - 🤔 I’m looking for help with nothing at the moment.
 - 💬 Ask me about my projects, don't worry, I won't look at your questions unless they notify me (if that's even possible I have no idea)
-- 📫 How to reach me: Requests, preferably on [<img src="https://shields.io" alt="Launch Peeron">](https://9website.github.io/Peeron/).
+- 📫 How to reach me: Requests, preferably on [Peeron](https://9website.github.io/Peeron/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If you give me something, I will not accept so try it for yourself GIMME GIMME GIMME.
 -->
