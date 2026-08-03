@@ -1,8 +1,4 @@
-## Hi there 👋
-
-**9Website/9Website** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi There 👋
 
 - 🔭 I’m currently working on many many HTML projects that come and go as they please.
 - 🌱 I’m currently learning about:
