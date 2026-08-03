@@ -5,7 +5,34 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on many many HTML projects that come and go as they please.
-- 🌱 I’m currently learning about \\(H_{118}He_{117}Li_{116}Be_{115}B_{114}C_{113}N_{112}O_{111}F_{110}Ne_{109}Na_{108}Mg_{107}Al_{106}Si_{105}P_{104}S_{103}Cl_{102}Ar_{101}K_{100}Ca_{99}Sc_{98}Ti_{97}V_{96}Cr_{95}Mn_{94}Fe_{93}Co_{92}Ni_{91}Cu_{90}Zn_{89}Ga_{88}Ge_{87}As_{86}Se_{85}Br_{84}Kr_{83}Rb_{82}Sr_{81}Y_{80}Zr_{79}Nb_{78}Mo_{77}Tc_{76}Ru_{75}Rh_{74}Pd_{73}Ag_{72}Cd_{71}In_{70}Sn_{69}Sb_{68}Te_{67}I_{66}Xe_{65}Cs_{64}Ba_{63}La_{62}Ce_{61}Pr_{60}Nd_{59}Pm_{58}Sm_{57}Eu_{56}Gd_{55}Tb_{54}Dy_{53}Ho_{52}Er_{51}Tm_{50}Yb_{49}Lu_{48}Hf_{47}Ta_{46}W_{45}Re_{44}Os_{43}Ir_{42}Pt_{41}Au_{40}Hg_{39}Tl_{38}Pb_{37}Bi_{36}Po_{35}At_{34}Rn_{33}Fr_{32}Ra_{31}Ac_{30}Th_{29}Pa_{28}U_{27}Np_{26}Pu_{25}Am_{24}Cm_{23}Bk_{22}Cf_{21}Es_{20}Fm_{19}Md_{18}No_{17}Lr_{16}Rf_{15}Db_{14}Sg_{13}Bh_{12}Hs_{11}Mt_{10}Ds_{9}Rg_{8}Cn_{7}Nh_{6}Fl_{5}Mc_{4}Lv_{3}Ts_{2}Og\\) :\(\text{Total\ Atoms}=\sum _{k=1}^{118}k=\frac{118\times 119}{2}=\mathbf{7,021}\text{\ atoms}\)
+- 🌱 I’m currently learning about:
+
+# Periodic Table Arithmetic Series
+
+An analysis of a hypothetical superheavy molecular cluster containing all 118 officially recognized elements of the periodic table, where subscripts follow a descending arithmetic progression.
+
+## 🧪 Chemical Formula
+
+```text
+H₁₁₈He₁₁₇Li₁₁₆Be₁₁₅B₁₁₄C₁₁₃N₁₁₂O₁₁₁F₁₁₀Ne₁₀₉Na₁₀₈Mg₁₀₇Al₁₀₆Si₁₀₅P₁₀₄S₁₀₃Cl₁₀₂Ar₁₀₁K₁₀₀Ca₉₉Sc₉₈Ti₉₇V₉₆Cr₉₅Mn₉₄Fe₉₃Co₉₂Ni₉₁Cu₉₀Zn₈₉Ga₈₈Ge₈₇As₈₆Se₈₅Br₈₄Kr₈₃Rb₈₂Sr₈₁Y₈₀Zr₇₉Nb₇₈Mo₇₇Tc₇₆Ru₇₅Rh₇₄Pd₇₃Ag₇₂Cd₇₁In₇₀Sn₆₉Sb₆₈Te₆₇I₆₆Xe₆₅Cs₆₄Ba₆₃La₆₂Ce₆₁Pr₆₀Nd₅₉Pm₅₈Sm₅₇Eu₅₆Gd₅₅Tb₅₄Dy₅₃Ho₅₂Er₅₁Tm₅₀Yb₄₉Lu₄₈Hf₄₇Ta₄₆W₄₅Re₄₄Os₄₃Ir₄₂Pt₄₁Au₄₀Hg₃₉Tl₃₈Pb₃₇Bi₃₆Po₃₅At₃₄Rn₃₃Fr₃₂Ra₃₁Ac₃₀Th₂₉Pa₂₈U₂₇Np₂₆Pu₂₅Am₂₄Cm₂₃Bk₂₂Cf₂₁Es₂₀Fm₁₉Md₁₈No₁₇Lr₁₆Rf₁₅Db₁₄Sg₁₃Bh₁₂Hs₁₁Mt₁₀Ds₉Rg₈Cn₇Nh₆Fl₅Mc₄Lv₃Ts₂Og₁
+```
+
+## 📊 Atomic Composition
+
+The total number of atoms in this formula is calculated by finding the sum of the arithmetic series from 1 to 118:
+
+$$\text{Total Atoms} = \sum_{k=1}^{118} k = \frac{118 \times 119}{2} = \mathbf{7,021 \text{ atoms}}$$
+
+### 🔍 Quick Facts
+
+| Metric | Value | Element |
+| :--- | :--- | :--- |
+| **Total Elements** | 118 | Hydrogen ($H$) to Oganesson ($Og$) |
+| **Total Atoms** | **7,021** | Entire system cluster |
+| **Most Abundant** | 118 atoms | Hydrogen ($H_{118}$) |
+| **Least Abundant** | 1 atom | Oganesson ($Og_1$) |
+
+  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
